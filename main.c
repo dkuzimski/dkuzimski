@@ -2,8 +2,8 @@
 
 int main()
 {
-	printf("Helo world");
-	pirntf("to jest kolejna linia");
+	printf("Helo world!!!\n");
+	printf("to jest kolejna linia\n");
 	return 0;
 }
 
